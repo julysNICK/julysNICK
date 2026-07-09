@@ -1,36 +1,41 @@
 # Hi, I'm Julys Martins 👋
 
-I'm a Software Engineer focused on backend development with Go, Node.js, NestJS, PostgreSQL, Docker, and event-driven systems.
+I'm a backend-focused Software Engineer with experience building APIs, services, and full-stack applications using **Go, Node.js, NestJS, React, Next.js, PostgreSQL, Docker, and RabbitMQ**.
 
-I also have experience building frontend applications with React and Next.js, which helps me understand full product workflows from API design to user experience.
+I enjoy working on scalable backend systems, clean API design, database modeling, asynchronous processing, and event-driven architectures. I also have frontend experience with React and Next.js, which helps me understand the full product flow from backend architecture to user experience.
 
-## Main stack
+## 🚀 Main Stack
 
-- Backend: Go, Node.js, NestJS
-- Frontend: React, Next.js, TypeScript
-- Databases: PostgreSQL, MongoDB, Firebase
-- Infra: Docker, RabbitMQ, CI/CD
-- Architecture: Clean Architecture, REST APIs, Event-Driven Systems
+**Backend:** Go, Node.js, NestJS, TypeScript  
+**Frontend:** React, Next.js, TypeScript  
+**Databases:** PostgreSQL, MongoDB, Firebase  
+**Infrastructure:** Docker, RabbitMQ, CI/CD  
+**Architecture:** REST APIs, Clean Architecture, Event-Driven Systems, Microservices  
 
-## Featured projects
+## 📌 Featured Projects
 
 ### EstateHub API
-Backend API built with Go, PostgreSQL, Docker, pagination, filtering, validation, and clean project structure.
+Backend API built with Go, PostgreSQL, Docker, migrations, validation, pagination, filtering, and clean project structure.
 
 ### RabbitMQ Service
-Message-driven backend service using Go and RabbitMQ to process asynchronous jobs.
+Message-driven backend service using Go and RabbitMQ to process asynchronous jobs with workers and event-based communication.
 
 ### Simple Bank Microservice
-Microservice-based banking API focused on clean architecture, database transactions, and backend reliability.
+Banking microservice API focused on clean architecture, database transactions, backend reliability, and service separation.
 
-## What I'm studying now
+## 📚 Currently Studying
 
 - Advanced Go backend development
 - System design
 - Distributed systems
-- Backend architecture for remote international roles
+- Backend architecture
+- Cloud and infrastructure fundamentals
 
-## Contact
+## 🎯 Career Focus
 
-- LinkedIn: [https://www.linkedin.com/in/julys-martins/](https://www.linkedin.com/in/julys-martins/)
-- Email: julysmartins54@gmail.com
+I'm currently focused on growing as a backend-oriented Software Engineer, especially in roles involving APIs, distributed systems, Go, Node.js, PostgreSQL, Docker, and scalable software architecture.
+
+## 📫 Contact
+
+**LinkedIn:** https://www.linkedin.com/in/julys-martins/  
+**Email:** julysmartins54@gmail.com
